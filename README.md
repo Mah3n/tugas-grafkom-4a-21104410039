@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410039** |
+| Nama Lengkap | **Mahendra** |
 | Kelas | TI-4A |
